@@ -1,1 +1,2 @@
-
+﻿name,ring,quadrant,isNew,description
+.NET 8,Adopt,Languages & Frameworks,Yes,"Major LTS release with improved performance, Native AOT support, enhanced minimal APIs, and new middleware like output caching and rate limiting."
