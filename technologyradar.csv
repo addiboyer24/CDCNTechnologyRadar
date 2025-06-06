@@ -1,3 +1,4 @@
 ﻿name,ring,quadrant,isNew,description
 .NET 8,Adopt,Languages & Frameworks,Yes,"Major LTS release with improved performance, Native AOT support, enhanced minimal APIs, and new middleware like output caching and rate limiting."
 Azure DevOps,Adopt,Tools,No,"A mature, enterprise-grade suite for source control, CI/CD pipelines, agile planning, and test management. Deeply integrated with the Microsoft ecosystem and ideal for teams using the .NET stack."
+Workday,Adopt,Platforms,No,"A leading cloud-based enterprise platform for human capital management (HCM), payroll, and financial planning. Widely adopted in large organizations for HR and finance operations."
