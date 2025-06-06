@@ -1,4 +1,5 @@
-﻿.NET 8,Adopt,Platforms,No,"The latest major release of the .NET platform, providing enhanced performance, cloud-native support, and modern development features."
+﻿name,ring,quadrant,isNew,description
+.NET 8,Adopt,Platforms,No,"The latest major release of the .NET platform, providing enhanced performance, cloud-native support, and modern development features."
 .NET 7,Hold,Platforms,No,"The previous major release of .NET, recently migrated away from. Retained only for legacy support; no new development."
 .NET 6,Hold,Platforms,No,"A long-term support (LTS) version of .NET that served as a foundation prior to migration to .NET 8. Maintained for legacy systems but not actively used for new projects."
 Azure DevOps,Adopt,Tools,No,"A cloud-based DevOps service from Microsoft providing CI/CD pipelines, source control, and work tracking."
