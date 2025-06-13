@@ -1,4 +1,4 @@
-﻿name,ring,quadrant,isNew,description
+name,ring,quadrant,isNew,description
 .NET 8,Adopt,Platforms,No,"The latest major release of the .NET platform, providing enhanced performance, cloud-native support, and modern development features."
 .NET 7,Hold,Platforms,No,"The previous major release of .NET, recently migrated away from. Retained only for legacy support; no new development."
 .NET 6,Hold,Platforms,No,"A long-term support (LTS) version of .NET that served as a foundation prior to migration to .NET 8. Maintained for legacy systems but not actively used for new projects."
@@ -25,6 +25,7 @@ HubSpot,Assess,Platforms,No,"An all-in-one inbound marketing, sales, and custome
 WordPress,Adopt,Platforms,No,"A widely used open-source content management system powering our externally facing state websites, known for its extensibility, plugin ecosystem, and ease of content publishing."
 TypeScript,Adopt,Languages & Frameworks,No,"A strongly typed superset of JavaScript that enhances code quality and maintainability in client-side application development."
 Angular,Adopt,Languages & Frameworks,No,"A robust front-end web application framework developed by Google, used for building scalable and maintainable client applications."
+C#,Adopt,Languages & Frameworks,No,"A modern, object-oriented programming language developed by Microsoft, widely used for building enterprise applications, web services, and game development within the .NET ecosystem."
 SSRS,Hold,Platforms,No,"Microsoft’s on-premises reporting platform for creating, managing, and delivering paginated reports. Retained for legacy reporting but not used for new development."
 Azure Functions,Adopt,Platforms,No,"Microsoft's serverless compute service enabling event-driven workflows and microservices with automatic scaling and pay-per-use billing."
 Azure Data Factory,Adopt,Platforms,No,"A cloud-based data integration service that enables creation, scheduling, and orchestration of data pipelines for ETL and ELT workflows."
